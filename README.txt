@@ -8,5 +8,5 @@ Aadhab!!!
 <<<<<<< HEAD
 hey.....
 =======
-lookig like conflict arises....haammm!!!
+looking like conflict arises....haammm!!!
 >>>>>>> js-assesments
